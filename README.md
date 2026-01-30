@@ -37,7 +37,7 @@ It’s built with modern frontend technologies and best-practice tooling for per
 
 🎯 Open the live site here:
 
-👉 https://agency-ai-rho-blue.vercel.app
+👉[ https://agency-ai-rho-blue.vercel.app](https://agency-ai-rho-blue.vercel.app/)
 
 ---
 
@@ -62,3 +62,24 @@ It’s built with modern frontend technologies and best-practice tooling for per
           
    cd agency.ai
 
+##🎯 Learning Outcomes
+
+- Building modern UIs with React
+
+- Styling efficiently with Tailwind CSS
+
+- Component-based architecture
+
+- Deploying React apps on Vercel
+
+- Handling forms without a backend
+
+  ##📄 License
+This project is open-source and available under the MIT License.
+
+##👤 Author
+
+Bindu Patel
+Frontend Developer (React)
+
+GitHub: https://github.com/bindupatel-19
