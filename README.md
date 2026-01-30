@@ -62,7 +62,7 @@ It’s built with modern frontend technologies and best-practice tooling for per
           
    cd agency.ai
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Building modern UIs with React
 
@@ -74,10 +74,10 @@ It’s built with modern frontend technologies and best-practice tooling for per
 
 - Handling forms without a backend
 
-  ##📄 License
+  ## 📄 License
 This project is open-source and available under the MIT License.
 
-##👤 Author
+## 👤 Author
 
 Bindu Patel
 Frontend Developer (React)
